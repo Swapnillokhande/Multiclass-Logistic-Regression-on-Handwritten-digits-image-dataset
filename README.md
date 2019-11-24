@@ -6,9 +6,14 @@ For the analysis, an MNIST dataset is used which comprises of thousands of image
 
 # REFERENCES
 Swaminathan, S. (2018, March 15). Logistic Regression – Detailed Overview. Retrieved from https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+
 ML Stochastic Gradient Descent. Retrieved from https://www.geeksforgeeks.org/ml-stochastic-gradient-descent-sgd/
+
 Loss Functions. Retrieved from https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
+
 Softmax Regression. Retrieved from http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
+
 Gutha, K. (2018, June 20). MNIST For Machine Learning Beginners With Softmax Regression. Retrieved from https://datascienceplus.com/mnist-for-machine-learning-beginners-with-softmax-regression/
+
 Multiclass logistic regression from scratch. Retrieved from https://gluon.mxnet.io/chapter02_supervised-learning/softmax-regression-scratch.html
 
